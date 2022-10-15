@@ -5,4 +5,6 @@ use (
 	./2.repository/repo1
 	./2.repository/repo2
 	./3.replace
+	./4.multi_mod/r1
+	./4.multi_mod/r2
 )
