@@ -1,0 +1,8 @@
+go 1.19
+
+use (
+	./1.init
+	./2.repository/repo1
+	./2.repository/repo2
+	./3.replace
+)
